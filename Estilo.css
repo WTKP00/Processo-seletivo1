@@ -1,0 +1,16 @@
+.title {
+	font-size: 38px;
+	font-family: Arial;
+	
+}
+body{
+	text-align: Center;
+	text-justify: inter-world;
+}
+
+.button{
+	background-color: blue;
+	color: white;
+	font-family: Arial;
+	font-size: 25px;
+}
